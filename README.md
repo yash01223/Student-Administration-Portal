@@ -54,10 +54,10 @@ http://localhost:8080
 
 ## API Endpoints
 
-GET /students 
-GET /students/{id}
-POST /students/post  
-DELETE /students/{id}  
+- GET /students 
+- GET /students/{id}
+- POST /students/post  
+- DELETE /students/{id}  
 
 ---
 

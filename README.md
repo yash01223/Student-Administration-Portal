@@ -1,4 +1,4 @@
-# Student Management System
+# Student Administration Portal
 
 A RESTful backend application built using Spring Boot to manage student records. 
 The application supports role-based authentication and is containerized using Docker.

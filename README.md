@@ -13,6 +13,7 @@ The application supports role-based authentication and is containerized using Do
 - Hibernate (JPA)
 - PostgreSQL
 - Docker & Docker Compose
+- Postman
 
 ---
 

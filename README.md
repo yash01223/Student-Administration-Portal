@@ -47,8 +47,6 @@ mvn spring-boot:run
 
 docker compose up -d --build  
 
-Access:  
-http://localhost:8080  
 
 ---
 
